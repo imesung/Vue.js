@@ -2,6 +2,10 @@
 
 **참고 URL : joshua1988.github.io**
 
+참고 URL : slido.com | T255 join
+
+참고 URL : https://www.facebook.com/groups/2482717588666062/
+
 
 
 ### 현대 웹 애플리케이션 개발
@@ -36,3 +40,34 @@
 - 웹 애플리케이션이지만 앱에서도 사용 가능하다.
 - 웹으로 앱을 커버할 수 있다는 장점이 있다.
 - 오프라인에서도 사용 가능하다.
+
+
+
+### vue 시작
+
+**vuepress 설치**
+
+https://vuepress.vuejs.org/guide/getting-started.html#inside-an-existing-project
+
+
+
+**vue MarketPlace 필수 설치**
+
+Vetur
+
+Night Owl
+
+Material Icon Theme
+
+Live Server - 현재 있는 페이지를 바로 서버로 띄워주는 것.
+
+ESLint
+
+Prettier    - 세미콜론 혹은 콤마, 줄맞춤 부분을 자동으로 맞춰줌
+
+Auto Close Tag
+
+Atom Keymap - 커서 동작을 자동으로 할 수 있도록 도와주는 것(notepad 처럼)
+
+gitLens     - 현재 git에 커밋되어 있는 것을 라인별로 볼수 있다.
+
